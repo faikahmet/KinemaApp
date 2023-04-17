@@ -14,9 +14,6 @@ Kinema App uses modern Android development with RxJava,Retrofit,Gson,ViewModel,C
    <p align="center">
        <img src="https://user-images.githubusercontent.com/48482054/232633501-af2ff7b3-cd3d-490a-b559-d93d1e9dbd26.jpeg" width = "300" height="600">
   </p>
-# Download
-Go to the Releases to download the latest APK.
-
 
 # Open-source libraries
 - Minimum SDK level 21
