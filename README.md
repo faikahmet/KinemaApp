@@ -1,6 +1,4 @@
 # KinemaApp
-Kinema App
-
 Kinema App uses modern Android development with RxJava,Retrofit,Gson,ViewModel,Coil and Material Design.This is based on MVVM architecture.
 
 # ScreenShoot
