@@ -20,7 +20,7 @@ Go to the Releases to download the latest APK.
 
 # Open-source libraries
 - Minimum SDK level 21
-- Retrofit: A type-safe HTTP client for Android and Java.
+- Retrofit: A type-safe HTTP client for Android and Kotlin.
 - RxJava: Reactive events and properties with RxJava for Android SDK.Using RxJava for networking is very often used. 
 - Gson: Gson is a Java library that can be used to convert Java Objects into their JSON representation.
 - Lifecycle: Observe Android lifecycles and handle UI states upon the lifecycle changes.
