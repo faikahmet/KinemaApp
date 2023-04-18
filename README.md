@@ -15,6 +15,11 @@ Kinema App uses modern Android development with RxJava,Retrofit,Gson,ViewModel,C
        <img src="https://user-images.githubusercontent.com/48482054/232633501-af2ff7b3-cd3d-490a-b559-d93d1e9dbd26.jpeg" width = "300" height="600">
   </p>
 
+# Building the app
+- Open Constantin the root directory.
+- Add your TMDB API key as follows
+- 	<sub> API_KEY=ADD_YOUR_API_KEY_HERE</sub>
+
 # Open-source libraries
 - Minimum SDK level 21
 - Retrofit: A type-safe HTTP client for Android and Kotlin.
